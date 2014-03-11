@@ -37,7 +37,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0.x-dev"
+            "v2.0.1": "2.0.1-dev"
         }
     },
     "target-dir": "Liuggio/ExcelBundle",
